@@ -1,4 +1,5 @@
-﻿#EXTINF:-1,Premium 1 Hevc (H)
+#EXTM3U
+#EXTINF:-1,Premium 1 Hevc (H)
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/21044.ts
 #EXTINF:-1,Premium 2 Hevc (H)
 http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/21045.ts
